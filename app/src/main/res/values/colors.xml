@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 6 and 7 -->
+    <color name="magnitude1">#1A237E</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 6 and 7 -->
+    <color name="magnitude5">#FF7D50</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 6 and 7 -->
+    <color name="magnitude6">#FC6644</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 7 and 8 -->
+    <color name="magnitude7">#E75F40</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 8 and 9 -->
+    <color name="magnitude8">#E13A20</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 9 and 10 -->
+    <color name="magnitude9">#D93218</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude over 10 -->
+    <color name="magnitude10plus">#C03823</color>
+</resources>

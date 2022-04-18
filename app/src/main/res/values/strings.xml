@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Worm</string>
+    <string name="edit_text_hint">Enter the book title and hit search</string>
+    <string name="search_button">🔍SEARCH</string>
+    <string name="no_books">No books found</string>
+    <string name="no_internet">Please check your internet connectivity</string>
+</resources>
